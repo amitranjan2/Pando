@@ -79,7 +79,7 @@
                          xlsx.writeFileSync(nw,path.join(__dirname,"Application",Date.now()+"result.xlsx"))
 
 
-                        res.json({ data: e});
+                        res.json({ data: data});
 
         })
 
