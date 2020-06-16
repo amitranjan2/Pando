@@ -3,7 +3,7 @@
 ##Quick Setup
 
 1) `clone ` <br>
-2) `Go to directory` <br>
+2) `Go to directory(Pando)` <br>
 3) `npm install` <br>
 4) `node app.js` <br>
 5) In your browser `http://localhost:3000` <br>
